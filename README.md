@@ -2,7 +2,7 @@
 
 this project is created using python, it can download any youtube video just by entering the link.
 
-##usage##
+## usage ##
 
 -  clone this repository
 -  extract the repo
